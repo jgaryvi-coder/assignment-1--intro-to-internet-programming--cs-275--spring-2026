@@ -3,17 +3,26 @@ html {
 }
 
 body {
-  background-color: beige;
+  background-color: rgb(245, 245, 220);
   font: normal normal normal 20px sans-serif;
   margin-left: 20px;
   margin-right: 20px;
   font-family: "Merriweather", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 500;
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+  "wdth" 100;
+  color: rgb(14, 95, 6);
 
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: rgb(47, 79, 79);
 }
 
 h1 {
