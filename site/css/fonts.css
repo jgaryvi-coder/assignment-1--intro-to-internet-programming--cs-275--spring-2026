@@ -1,0 +1,36 @@
+/* normal */
+@font-face {
+  font-family: 'Open Dyslexic';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/opendyslexic-regular-webfont.woff2) format('woff2');
+}
+/* bold */
+@font-face {
+  font-family: 'Open Dyslexic';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/opendyslexic-bold-webfont.woff2) format('woff2');
+}
+/* italic */
+@font-face {
+  font-family: 'Open Dyslexic';
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/opendyslexic-italic-webfont.woff2) format('woff2');
+}
+/* bold italic */
+@font-face {
+  font-family: 'Merriweather';
+  font-style: italic;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(../fonts/opendyslexic-bolditalic-webfont.woff2) format('woff2');
+}

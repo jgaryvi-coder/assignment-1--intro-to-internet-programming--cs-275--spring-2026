@@ -7,7 +7,7 @@ body {
   font: normal normal normal 20px sans-serif;
   margin-left: 20px;
   margin-right: 20px;
-  font-family: "Merriweather", serif;
+  font-family: "Open Dyslexic", serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5 {
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  color: rgb(47, 79, 79);
+  color: rgb(109, 105, 3);
 }
 
 h1 {
